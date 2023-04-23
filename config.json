@@ -2,11 +2,11 @@
     "ip": "in1.pylexservers.xyz",
     "port": "8394",
     "password": "",
-    "prefix": "",
+    "prefix": "<",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "done",
-    "web": "true"
+    "web": "fakse"
     
 }
